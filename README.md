@@ -54,7 +54,6 @@ The model learns patterns from labelled examples. It does not understand the int
 ## Project files
 
 ```text
-PhishGuard_ML_Workshop/
 ├── README.md
 └── PhishGuard_URL_Detector.ipynb
 ```
